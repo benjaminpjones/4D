@@ -1,4 +1,3 @@
-*.out
 world.h
 world.cpp
 polyhedra.h
