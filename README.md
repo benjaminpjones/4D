@@ -4,7 +4,9 @@
 
     - On Mac, `brew install SDL2`
 
-2) run `make all`
+2) run `make`
+
+3) To play, run `./FourD`
 
 ### Game Controls
 
