@@ -1,7 +1,2 @@
-world.h
-world.cpp
-polyhedra.h
-polyhedra.cpp
-test/
-questions.txt
-matrix.h
+*.o
+FourD
